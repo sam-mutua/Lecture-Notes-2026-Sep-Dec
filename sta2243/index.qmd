@@ -1,0 +1,99 @@
+---
+title: Course Description
+---
+
+The course content to be covered is displayed here. Make sure to follow through.
+
+::: callout-important
+### For You
+
+Ensure if you have a PC you have carried it to class fully installed with R and RStudio.
+
+We will be using the smart board/ projector available at the Computer Lab 1.
+
+Kindly corporate.
+
+Basic knowledge in Exploratory Data Analysis is very vital for this course.
+:::
+
+# Purpose
+
+To equip students with the skills to enable them to perform basic statistical analysis using standard statistical software and interpret the results.
+
+# Objectives
+
+By the end of the course the student should be able to:
+
+1.  Use a Statistical Software
+
+2.  Use a computer programme in estimation of the measures of central tendency and dispersion.
+
+3.  Use a computer to estimate simple linear regression models
+
+4.  Apply statistical computer packages for handling statistical techniques such as graphics, sampling variability. Computation of density, distribution and quartile functions for probability distribution.
+
+# Description
+
+Introduction to R and Excel: Numeric and vector operations and importing data from spreadsheets like excel and SPSS. Measures of central tendency: Arithmetic mean, Harmonic mean, Geometric Mean, Mode, Median, Quartiles. Measures of dispersion: Range, Variance, Kurtosis, Skewness, Exploratory data analysis. Correlation: Pearson and Rank correlations. Simple Linear Regression, Computation of density, distribution and quintile functions for hyper geometric, binomial, Poisson, normal, exponential, Gomperz weibul, uniform, and Chi-square, beta and gamma distributions.
+
+# Teaching Methods
+
+1.  Lecture: oral presentation generally incorporating additional activities, e.g. writing on a chalk-board, exercises, class questions and discussions, or student presentations.
+
+2.  Practical: a laboratory experiment/session as a means of further actively involving students.
+
+# Lecture Notes
+
+This section provides lecture notes for each week. Kindly follow through for the notes here.
+
+## Week One Lecture
+
+Download or view: [Week One](/sta2243/Week_One.pdf).
+
+## Week Two Lecture
+
+Download or view: [Week Two](/sta2243/Week_Two.pdf).
+
+## Week Three Lecture
+
+Download or view: [Week Three](/sta2243/Week_Three.pdf).
+
+## Week Four Lecture
+
+Download or view: [Week Four](/sta2243/Week_Four.pdf).
+
+## Week Five Lecture
+
+CAT 1 as per the University Plan
+
+## Week Six Lecture
+
+Download or view: [Week Six](/sta2243/Week_Six.pdf).
+
+## Week Seven Lecture
+
+Download or view: [Week Seven](/sta2243/Week_Seven.pdf).
+
+## Week Eight Lecture
+
+Download or view: [Week Eight](/sta2243/Week_Eight.pdf).
+
+## Week Nine Lecture
+
+Download or view: [Week Nine](/sta2243/Week_Nine.pdf).
+
+## Week Ten
+
+Download or view: [Week Ten](/sta2243/Week_Ten.pdf).
+
+## Week Eleven
+
+CAT 2
+
+## Week Twelve
+
+Group Project Presentations
+
+## Week 13 and 14
+
+Revision for Examinations

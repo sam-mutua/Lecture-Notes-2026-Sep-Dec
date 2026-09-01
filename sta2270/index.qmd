@@ -1,0 +1,80 @@
+---
+title: "Course Content"
+---
+
+# Course Purpose
+
+Equip the learners with the knowledge on basic concepts of probability and statistics that can be applied in formulating and solving Construction management problems
+
+# Expected Learning Outcomes
+
+By the end of the course, the learner should be able to:
+
+i.  Understand the basic concepts of statistics
+ii. Utilize concepts of statistics in research
+iii. Apply the properties of binomial distribution
+
+# Course Description
+
+This course covers basic concepts of statistics and probability theory. Topics covered include importance of statistics; professional responsibilities of statisticians; use of statistics in science; statistics and scientific method; descriptive statistics: variables and data frames; graphics data displays; frequency distributions; arithmetic mean, the mode, median, proportions and other measures of central tendency; measures of dispersion, distance measures, range, fractiles, variance, the standard deviation; probability theory: rules of probability; counting techniques-permutations, combinations. The properties of binomial distribution-bernouli conditions, use of binomial distribution. The binomial, normal and poisson distributions; fitting theoretical distribution to sample frequency distributions; use of standard normal tables. Statistical estimation theory: estimation of parameters, unbiased estimates; efficient estimates; points estimates; interval estimates and their reliability; confidence interval estimates of population parameters; means, proportions and standard deviations; statistical decision theory, tests of hypothesis and significance: basic concepts of hypothesis testing; null hypothesis; tests of hypothesis and significance; tests involving normal distribution; one tailed and two tailed tests using mean and proportions; selecting a statistical test-power of a test. Non-parametric statistics: the student’s t; chi-square test; analysis of variance-one-two way. Regression and correlation: regression analysis; curve fitting and method of least squares; statistical inferences using regression line; correlation analysis; multiple regression and correlation; curvilinear regression.
+
+# Lecture Notes Per Week
+
+::: callout-important
+Be visiting the webpage every week for lecture notes.
+
+They will uploaded here each week or earlier as it may be necessary.
+:::
+
+## Week One Lecture
+
+Download or view: [Week One](/sta2270/Week_One.pdf).
+
+## Week Two Lecture
+
+Download or view: [Week Two](/sta2270/Week_Two.pdf).
+
+## Week Three Lecture
+
+Download or view: [Week Three](/sta2270/Week_Three.pdf).
+
+## Week Four Lecture
+
+Download or view: [Week Four](/sta2270/Week_Four.pdf).
+
+## Week Five Lecture
+
+CAT 1 as per the University Plan
+
+## Week Six Lecture
+
+Download or view: [Week Six](/sta2270/Week_Six.pdf).
+
+## Week Seven Lecture
+
+Download or view: [Week Seven](/sta2270/Week_Seven.pdf).
+
+## Week Eight Lecture
+
+Download or view: [Week Eight](/sta2270/Week_Eight.pdf).
+
+## Week Nine Lecture
+
+Download or view: [Week Nine](/sta2270/Week_Nine.pdf).
+
+## Week Ten
+
+CAT 2 as per University Plan
+
+## Week Eleven Lecture
+
+Download or view: [Week Eleven](/sta2270/Week_Eleven.pdf).
+
+
+## Week Twelve 
+
+Group Project Presentations
+
+## Week 13 and 14
+
+Revision for Examinations

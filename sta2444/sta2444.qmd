@@ -1,0 +1,73 @@
+---
+title: Course Description
+---
+
+The course content to be covered is displayed here. Make sure to follow through.
+
+::: callout-important
+### For You
+
+Ensure if you have a PC you have carried it to class fully installed with R and RStudio.
+
+We will be using the smart board/ projector available at the Computer Lab 1.
+
+Kindly corporate.
+
+Basic knowledge in Exploratory Data Analysis is very vital for this course.
+:::
+
+# Lecture Notes
+
+This section provides lecture notes for each week. Kindly follow through for the notes here.
+
+## Week One Lecture
+
+Download or view: [Week One](/sta2444/Week_One.pdf).
+
+## Week Two Lecture
+
+Download or view: [Week Two](/sta2444/Week_Two.pdf).
+
+## Week Three Lecture
+
+Download or view: [Week Three](/sta2444/Week_Three.pdf).
+
+## Week Four Lecture
+
+Download or view: [Week Four](/sta2444/Week_Four.pdf).
+
+## Week Five Lecture
+
+CAT 1 as per the University Plan
+
+## Week Six Lecture
+
+Download or view: [Week Six](/sta2444/Week_Five.pdf).
+
+## Week Seven Lecture
+
+Download or view: [Week Seven](/sta2444/Week_Six.pdf).
+
+## Week Eight Lecture
+
+Download or view: [Week Eight](/sta2444/Week_Seven.pdf).
+
+## Week Nine Lecture
+
+Download or view: [Week Nine](/sta2444/Week_Eight.pdf).
+
+## Week Ten
+
+Download or view: [Week Ten](/sta2444/Week_Nine.pdf).
+
+## Week Eleven
+
+CAT 2
+
+## Week Twelve
+
+Group Project Presentations
+
+## Week 13 and 14
+
+Revision for Examinations

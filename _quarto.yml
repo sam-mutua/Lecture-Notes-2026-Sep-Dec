@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lecture Notes 2026 Sep - Dec Semester"
+  favicon: "images/logo.png"
+  description: "Composition of Courses Taught by Dr. Mutua Kilai at Kirinyaga University During September - December 2026 Semester"
+  page-footer:
+    left: "&copy;2026 Dr. Mutua Kilai"
+    right: Made with <i class="fa-solid fa-heart"></i> and [Quarto](https://quarto.org/)
+  navbar:
+    pinned: true
+    background: "#1bcf54"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: instructs.qmd
+        text: Guidelines
+      - href: sta2243/index.qmd
+        text: STA 2243
+      - href: sta2444/sta2444.qmd
+        text: STA 2444
+      - href: sta2454/index.qmd
+        text: STA 2454
+      - href: spm2441/index.qmd
+        text: SPM 2441
+      - href: fdtt704/index.qmd
+        text: FDTT 704 
+      - href: sta2270/index.qmd
+        text: STA 2270
+      - href: sta2270/index.qmd
+        text: HES 2308
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,65 @@
+---
+title: "Guidelines"
+---
+
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tibble)
+library(pander)
+
+knitr::opts_chunk$set(fig.align = "center")
+```
+
+## Courses Covered
+
+This website is a collection of courses taught during the September - December 2026 Semester. 
+
+It is a compilation of materials for the following units:
+
+- STA 2444: Statistical Computing and Reporting
+
+- STA 2454: Econometrics
+
+- STA 2243: Fundamentals of Computer Interactive Statistics
+
+- SPM 2441: Regression Modeling
+
+These units especially **STA 2243** will expose you to [R](https://cran.r-project.org/)—one of the most popular, sought-after, and in-demand statistical programming languages.
+
+> It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Everyone gets frustrated.  Don't blame yourself. Just take a break, do something fun, and then come back and try again later.
+
+
+## Course materials
+
+All of the readings and software in these classes are **free**. There are free online version of all the textbooks, R and RStudio are inherently free. 
+
+### R and RStudio
+
+You will do all of your analysis with the open source (and free!) programming language [R](https://cran.r-project.org/). You will use [RStudio](https://www.rstudio.com/) as the main program to access R. 
+
+R is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free [Posit.cloud](http://posit.cloud/) service, which lets you run a full instance of RStudio in your web browser. 
+
+## Course policies
+
+**Be nice. Be honest. Don't cheat.**
+
+## Grades
+
+
+```{r assignments-grades, include=FALSE}
+grading <- tribble(
+  ~Grade, ~Range, 
+  "A",  "70–100%",
+  "B", "60–69%",
+  "C", "50–59%",
+  "D",  "40–49%",
+  "E", "0–39%"
+)
+```
+
+```{r show-grades-table, echo=FALSE, results="asis"}
+grading %>%
+  pandoc.table(justify = "lc", 
+               col.names = c("Grade", "Range"))
+```

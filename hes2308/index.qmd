@@ -1,0 +1,13 @@
+---
+title: " "
+---
+
+# Lecture Notes
+
+::: callout-important
+Be visiting the webpage every week for lecture notes.
+
+They will uploaded here each week or earlier as it may be necessary.
+:::
+
+The notes are [HES 2308 Lecture Notes](/hes2308/hes2308notes.pdf)

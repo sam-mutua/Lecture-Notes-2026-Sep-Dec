@@ -1,0 +1,69 @@
+---
+title: " "
+---
+
+# Lecture Notes Per Week
+
+:::{.callout-important}
+Be visiting the webpage every week for lecture notes.
+
+They will uploaded here each week or earlier as it may be necessary.
+:::
+
+
+## Week One Lecture
+
+Download or view:  [Week One](/spm2441/Week_One.pdf).
+
+
+## Week Two Lecture
+
+Download or view:  [Week Two](/spm2441/Week_Two.pdf).
+
+
+## Week Three Lecture
+
+Download or view:  [Week Three](/spm2441/Week_Three.pdf).
+
+
+## Week Four Lecture
+
+Download or view:  [Week Four](/spm2441/Week_Four.pdf).
+
+
+## Week Five Lecture
+
+CAT 1 as per the University Plan
+
+## Week Six Lecture
+
+Download or view:  [Week Six](/spm2441/Week_Six.pdf).
+
+
+## Week Seven Lecture
+
+Download or view:  [Week Seven](/spm2441/Week_Seven.pdf).
+
+## Week Eight Lecture
+
+Download or view:  [Week Eight](/spm2441/Week_Eight.pdf).
+
+
+## Week Nine Lecture
+
+Download or view:  [Week Nine](/spm2441/Week_Nine.pdf).
+
+
+## Week Ten
+
+CAT 2 as per University Plan
+
+## Week Eleven and Twelve
+
+Group Project Presentations
+
+## Week 13 and 14
+
+Revision for Examinations
+
+

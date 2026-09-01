@@ -1,0 +1,681 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course Website",
+    "section": "",
+    "text": "Instructor\n\n   Dr. Mutua Kilai\n   kmutua@kyu.ac.ke\n\n\n\nCourse details\n\n   As Scheduled\n   September 2026–December 2026\n   As Scheduled\n   As Scheduled"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "instructions.html",
+    "href": "instructions.html",
+    "title": "Guidelines",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "instructions.html#courses-covered",
+    "href": "instructions.html#courses-covered",
+    "title": "Guidelines",
+    "section": "Courses Covered",
+    "text": "Courses Covered\nThis website is a collection of courses taught during the September - December 2026 Semester.\nIt is a compilation of materials for the following units:\n\nSTA 2444: Statistical Computing and Reporting\nSTA 2454: Econometrics\nSTA 2243: Fundamentals of Computer Interactive Statistics\nSPM 2441: Regression Modeling\n\nThese units especially STA 2243 will expose you to R—one of the most popular, sought-after, and in-demand statistical programming languages.\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later."
+  },
+  {
+    "objectID": "instruction.html",
+    "href": "instruction.html",
+    "title": "Guidelines",
+    "section": "",
+    "text": "This website is a collection of courses taught during the September - December 2026 Semester.\nIt is a compilation of materials for the following units:\n\nSTA 2444: Statistical Computing and Reporting\nSTA 2454: Econometrics\nSTA 2243: Fundamentals of Computer Interactive Statistics\nSPM 2441: Regression Modeling\n\nThese units especially STA 2243 will expose you to R—one of the most popular, sought-after, and in-demand statistical programming languages.\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later."
+  },
+  {
+    "objectID": "instruction.html#courses-covered",
+    "href": "instruction.html#courses-covered",
+    "title": "Guidelines",
+    "section": "",
+    "text": "This website is a collection of courses taught during the September - December 2026 Semester.\nIt is a compilation of materials for the following units:\n\nSTA 2444: Statistical Computing and Reporting\nSTA 2454: Econometrics\nSTA 2243: Fundamentals of Computer Interactive Statistics\nSPM 2441: Regression Modeling\n\nThese units especially STA 2243 will expose you to R—one of the most popular, sought-after, and in-demand statistical programming languages.\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later."
+  },
+  {
+    "objectID": "instruction.html#course-materials",
+    "href": "instruction.html#course-materials",
+    "title": "Guidelines",
+    "section": "Course materials",
+    "text": "Course materials\nAll of the readings and software in these classes are free. There are free online version of all the textbooks, R and RStudio are inherently free.\n\nR and RStudio\nYou will do all of your analysis with the open source (and free!) programming language R. You will use RStudio as the main program to access R.\nR is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free Posit.cloud service, which lets you run a full instance of RStudio in your web browser.\nYou can find instructions for installing R, RStudio, and all the tidyverse packages here."
+  },
+  {
+    "objectID": "instruction.html#course-policies",
+    "href": "instruction.html#course-policies",
+    "title": "Guidelines",
+    "section": "Course policies",
+    "text": "Course policies\nBe nice. Be honest. Don’t cheat."
+  },
+  {
+    "objectID": "instruct.html",
+    "href": "instruct.html",
+    "title": "Guidelines",
+    "section": "",
+    "text": "This website is a collection of courses taught during the September - December 2026 Semester.\nIt is a compilation of materials for the following units:\n\nSTA 2444: Statistical Computing and Reporting\nSTA 2454: Econometrics\nSTA 2243: Fundamentals of Computer Interactive Statistics\nSPM 2441: Regression Modeling\n\nThese units especially STA 2243 will expose you to R—one of the most popular, sought-after, and in-demand statistical programming languages.\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later."
+  },
+  {
+    "objectID": "instruct.html#courses-covered",
+    "href": "instruct.html#courses-covered",
+    "title": "Guidelines",
+    "section": "",
+    "text": "This website is a collection of courses taught during the September - December 2026 Semester.\nIt is a compilation of materials for the following units:\n\nSTA 2444: Statistical Computing and Reporting\nSTA 2454: Econometrics\nSTA 2243: Fundamentals of Computer Interactive Statistics\nSPM 2441: Regression Modeling\n\nThese units especially STA 2243 will expose you to R—one of the most popular, sought-after, and in-demand statistical programming languages.\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later."
+  },
+  {
+    "objectID": "instruct.html#course-materials",
+    "href": "instruct.html#course-materials",
+    "title": "Guidelines",
+    "section": "Course materials",
+    "text": "Course materials\nAll of the readings and software in these classes are free. There are free online version of all the textbooks, R and RStudio are inherently free.\n\nR and RStudio\nYou will do all of your analysis with the open source (and free!) programming language R. You will use RStudio as the main program to access R.\nR is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free Posit.cloud service, which lets you run a full instance of RStudio in your web browser."
+  },
+  {
+    "objectID": "instruct.html#course-policies",
+    "href": "instruct.html#course-policies",
+    "title": "Guidelines",
+    "section": "Course policies",
+    "text": "Course policies\nBe nice. Be honest. Don’t cheat."
+  },
+  {
+    "objectID": "instruct.html#grades",
+    "href": "instruct.html#grades",
+    "title": "Guidelines",
+    "section": "Grades",
+    "text": "Grades\ngrading &lt;- tribble( ~Grade, ~Range, “A”, “70–100%” “B”, “60–69%” “C”, “50–59%” “D”, “40–49%” “E”, “0–39%” ) ``"
+  },
+  {
+    "objectID": "instructs.html",
+    "href": "instructs.html",
+    "title": "Guidelines",
+    "section": "",
+    "text": "This website is a collection of courses taught during the September - December 2026 Semester.\nIt is a compilation of materials for the following units:\n\nSTA 2444: Statistical Computing and Reporting\nSTA 2454: Econometrics\nSTA 2243: Fundamentals of Computer Interactive Statistics\nSPM 2441: Regression Modeling\nFDTT 704: Advanced Statistics\n\nThese units especially STA 2243 will expose you to R—one of the most popular, sought-after, and in-demand statistical programming languages.\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later."
+  },
+  {
+    "objectID": "instructs.html#courses-covered",
+    "href": "instructs.html#courses-covered",
+    "title": "Guidelines",
+    "section": "",
+    "text": "This website is a collection of courses taught during the September - December 2026 Semester.\nIt is a compilation of materials for the following units:\n\nSTA 2444: Statistical Computing and Reporting\nSTA 2454: Econometrics\nSTA 2243: Fundamentals of Computer Interactive Statistics\nSPM 2441: Regression Modeling\nFDTT 704: Advanced Statistics\n\nThese units especially STA 2243 will expose you to R—one of the most popular, sought-after, and in-demand statistical programming languages.\n\nIt’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later."
+  },
+  {
+    "objectID": "instructs.html#course-materials",
+    "href": "instructs.html#course-materials",
+    "title": "Guidelines",
+    "section": "Course materials",
+    "text": "Course materials\nAll of the readings and software in these classes are free. There are free online version of all the textbooks, R and RStudio are inherently free.\n\nR and RStudio\nYou will do all of your analysis with the open source (and free!) programming language R. You will use RStudio as the main program to access R.\nR is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free Posit.cloud service, which lets you run a full instance of RStudio in your web browser."
+  },
+  {
+    "objectID": "instructs.html#course-policies",
+    "href": "instructs.html#course-policies",
+    "title": "Guidelines",
+    "section": "Course policies",
+    "text": "Course policies\nBe nice. Be honest. Don’t cheat."
+  },
+  {
+    "objectID": "instructs.html#grades",
+    "href": "instructs.html#grades",
+    "title": "Guidelines",
+    "section": "Grades",
+    "text": "Grades\n\n\n\n\n\n\n\n\nGrade\nRange\n\n\n\n\nA\n70–100%\n\n\nB\n60–69%\n\n\nC\n50–59%\n\n\nD\n40–49%\n\n\nE\n0–39%"
+  },
+  {
+    "objectID": "sta2243/index.html",
+    "href": "sta2243/index.html",
+    "title": "Course Description",
+    "section": "",
+    "text": "The course content to be covered is displayed here. Make sure to follow through."
+  },
+  {
+    "objectID": "sta2243/index.html#week-one",
+    "href": "sta2243/index.html#week-one",
+    "title": "Course Description",
+    "section": "Week One",
+    "text": "Week One"
+  },
+  {
+    "objectID": "fdtt704/index.html",
+    "href": "fdtt704/index.html",
+    "title": "Course Description",
+    "section": "",
+    "text": "The course content to be covered is displayed here. Make sure to follow through."
+  },
+  {
+    "objectID": "fdtt704/index.html#week-one-lecture",
+    "href": "fdtt704/index.html#week-one-lecture",
+    "title": "Course Description",
+    "section": "Week One Lecture",
+    "text": "Week One Lecture\nDownload or view: Introduction Lecture."
+  },
+  {
+    "objectID": "fdtt704/index.html#week-two-lecture",
+    "href": "fdtt704/index.html#week-two-lecture",
+    "title": "Course Description",
+    "section": "Week Two Lecture",
+    "text": "Week Two Lecture\nDownload or view: Introduction To R."
+  },
+  {
+    "objectID": "fdtt704/index.html#week-three-lecture",
+    "href": "fdtt704/index.html#week-three-lecture",
+    "title": "Course Description",
+    "section": "Week Three Lecture",
+    "text": "Week Three Lecture\nDownload or view: Hypothesis Test."
+  },
+  {
+    "objectID": "fdtt704/index.html#week-four-lecture",
+    "href": "fdtt704/index.html#week-four-lecture",
+    "title": "Course Description",
+    "section": "Week Four Lecture",
+    "text": "Week Four Lecture\nDownload or view: Correlation and Regression."
+  },
+  {
+    "objectID": "fdtt704/index.html#week-five-lecture",
+    "href": "fdtt704/index.html#week-five-lecture",
+    "title": "Course Description",
+    "section": "Week Five Lecture",
+    "text": "Week Five Lecture\nDownload or view: Principal Component Analysis."
+  },
+  {
+    "objectID": "fdtt704/index.html#week-six-lecture",
+    "href": "fdtt704/index.html#week-six-lecture",
+    "title": "Course Description",
+    "section": "Week Six Lecture",
+    "text": "Week Six Lecture\nDownload or view: Clustering."
+  },
+  {
+    "objectID": "sta2270/index.html",
+    "href": "sta2270/index.html",
+    "title": "Course Content",
+    "section": "",
+    "text": "Equip the learners with the knowledge on basic concepts of probability and statistics that can be applied in formulating and solving Construction management problems"
+  },
+  {
+    "objectID": "sta2270/index.html#week-one-lecture",
+    "href": "sta2270/index.html#week-one-lecture",
+    "title": "Course Content",
+    "section": "Week One Lecture",
+    "text": "Week One Lecture\nDownload or view: Week One."
+  },
+  {
+    "objectID": "sta2270/index.html#week-two-lecture",
+    "href": "sta2270/index.html#week-two-lecture",
+    "title": "Course Content",
+    "section": "Week Two Lecture",
+    "text": "Week Two Lecture\nDownload or view: Week Two."
+  },
+  {
+    "objectID": "sta2270/index.html#week-three-lecture",
+    "href": "sta2270/index.html#week-three-lecture",
+    "title": "Course Content",
+    "section": "Week Three Lecture",
+    "text": "Week Three Lecture\nDownload or view: Week Three."
+  },
+  {
+    "objectID": "sta2270/index.html#week-four-lecture",
+    "href": "sta2270/index.html#week-four-lecture",
+    "title": "Course Content",
+    "section": "Week Four Lecture",
+    "text": "Week Four Lecture\nDownload or view: Week Four."
+  },
+  {
+    "objectID": "sta2270/index.html#week-five-lecture",
+    "href": "sta2270/index.html#week-five-lecture",
+    "title": "Course Content",
+    "section": "Week Five Lecture",
+    "text": "Week Five Lecture\nCAT 1 as per the University Plan"
+  },
+  {
+    "objectID": "sta2270/index.html#week-six-lecture",
+    "href": "sta2270/index.html#week-six-lecture",
+    "title": "Course Content",
+    "section": "Week Six Lecture",
+    "text": "Week Six Lecture\nDownload or view: Week Six."
+  },
+  {
+    "objectID": "sta2270/index.html#week-seven-lecture",
+    "href": "sta2270/index.html#week-seven-lecture",
+    "title": "Course Content",
+    "section": "Week Seven Lecture",
+    "text": "Week Seven Lecture\nDownload or view: Week Seven."
+  },
+  {
+    "objectID": "sta2270/index.html#week-eight-lecture",
+    "href": "sta2270/index.html#week-eight-lecture",
+    "title": "Course Content",
+    "section": "Week Eight Lecture",
+    "text": "Week Eight Lecture\nDownload or view: Week Eight."
+  },
+  {
+    "objectID": "sta2270/index.html#week-nine-lecture",
+    "href": "sta2270/index.html#week-nine-lecture",
+    "title": "Course Content",
+    "section": "Week Nine Lecture",
+    "text": "Week Nine Lecture\nDownload or view: Week Nine."
+  },
+  {
+    "objectID": "sta2270/index.html#week-ten",
+    "href": "sta2270/index.html#week-ten",
+    "title": "Course Content",
+    "section": "Week Ten",
+    "text": "Week Ten\nCAT 2 as per University Plan"
+  },
+  {
+    "objectID": "sta2270/index.html#week-eleven-and-twelve",
+    "href": "sta2270/index.html#week-eleven-and-twelve",
+    "title": "Course Content",
+    "section": "Week Eleven and Twelve",
+    "text": "Week Eleven and Twelve\nGroup Project Presentations"
+  },
+  {
+    "objectID": "sta2270/index.html#week-13-and-14",
+    "href": "sta2270/index.html#week-13-and-14",
+    "title": "Course Content",
+    "section": "Week 13 and 14",
+    "text": "Week 13 and 14\nRevision for Examinations"
+  },
+  {
+    "objectID": "spm2441/index.html",
+    "href": "spm2441/index.html",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Important\n\n\n\nBe visiting the webpage every week for lecture notes.\nThey will uploaded here each week or earlier as it may be necessary.\n\n\n\n\nDownload or view: Week One.\n\n\n\nDownload or view: Week Two.\n\n\n\nDownload or view: Week Three.\n\n\n\nDownload or view: Week Four.\n\n\n\nCAT 1 as per the University Plan\n\n\n\nDownload or view: Week Six.\n\n\n\nDownload or view: Week Seven.\n\n\n\nDownload or view: Week Eight.\n\n\n\nDownload or view: Week Nine.\n\n\n\nCAT 2 as per University Plan\n\n\n\nGroup Project Presentations\n\n\n\nRevision for Examinations"
+  },
+  {
+    "objectID": "spm2441/index.html#week-one-lecture",
+    "href": "spm2441/index.html#week-one-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week One."
+  },
+  {
+    "objectID": "spm2441/index.html#week-two-lecture",
+    "href": "spm2441/index.html#week-two-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Two."
+  },
+  {
+    "objectID": "spm2441/index.html#week-three-lecture",
+    "href": "spm2441/index.html#week-three-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Three."
+  },
+  {
+    "objectID": "spm2441/index.html#week-four-lecture",
+    "href": "spm2441/index.html#week-four-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Four."
+  },
+  {
+    "objectID": "spm2441/index.html#week-five-lecture",
+    "href": "spm2441/index.html#week-five-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "CAT 1 as per the University Plan"
+  },
+  {
+    "objectID": "spm2441/index.html#week-six-lecture",
+    "href": "spm2441/index.html#week-six-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Six."
+  },
+  {
+    "objectID": "spm2441/index.html#week-seven-lecture",
+    "href": "spm2441/index.html#week-seven-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Seven."
+  },
+  {
+    "objectID": "spm2441/index.html#week-eight-lecture",
+    "href": "spm2441/index.html#week-eight-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Eight."
+  },
+  {
+    "objectID": "spm2441/index.html#week-nine-lecture",
+    "href": "spm2441/index.html#week-nine-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Nine."
+  },
+  {
+    "objectID": "spm2441/index.html#week-ten",
+    "href": "spm2441/index.html#week-ten",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "CAT 2 as per University Plan"
+  },
+  {
+    "objectID": "spm2441/index.html#week-eleven-and-twelve",
+    "href": "spm2441/index.html#week-eleven-and-twelve",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Group Project Presentations"
+  },
+  {
+    "objectID": "spm2441/index.html#week-13-and-14",
+    "href": "spm2441/index.html#week-13-and-14",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Revision for Examinations"
+  },
+  {
+    "objectID": "sta2243/index.html#week-one-lecture",
+    "href": "sta2243/index.html#week-one-lecture",
+    "title": "Course Description",
+    "section": "Week One Lecture",
+    "text": "Week One Lecture\nDownload or view: Week One."
+  },
+  {
+    "objectID": "sta2243/index.html#week-two-lecture",
+    "href": "sta2243/index.html#week-two-lecture",
+    "title": "Course Description",
+    "section": "Week Two Lecture",
+    "text": "Week Two Lecture\nDownload or view: Week Two."
+  },
+  {
+    "objectID": "sta2243/index.html#week-three-lecture",
+    "href": "sta2243/index.html#week-three-lecture",
+    "title": "Course Description",
+    "section": "Week Three Lecture",
+    "text": "Week Three Lecture\nDownload or view: Week Three."
+  },
+  {
+    "objectID": "sta2243/index.html#week-four-lecture",
+    "href": "sta2243/index.html#week-four-lecture",
+    "title": "Course Description",
+    "section": "Week Four Lecture",
+    "text": "Week Four Lecture\nDownload or view: Week Four."
+  },
+  {
+    "objectID": "sta2243/index.html#week-five-lecture",
+    "href": "sta2243/index.html#week-five-lecture",
+    "title": "Course Description",
+    "section": "Week Five Lecture",
+    "text": "Week Five Lecture\nCAT 1 as per the University Plan"
+  },
+  {
+    "objectID": "sta2243/index.html#week-six-lecture",
+    "href": "sta2243/index.html#week-six-lecture",
+    "title": "Course Description",
+    "section": "Week Six Lecture",
+    "text": "Week Six Lecture\nDownload or view: Week Six."
+  },
+  {
+    "objectID": "sta2243/index.html#week-seven-lecture",
+    "href": "sta2243/index.html#week-seven-lecture",
+    "title": "Course Description",
+    "section": "Week Seven Lecture",
+    "text": "Week Seven Lecture\nDownload or view: Week Seven."
+  },
+  {
+    "objectID": "sta2243/index.html#week-eight-lecture",
+    "href": "sta2243/index.html#week-eight-lecture",
+    "title": "Course Description",
+    "section": "Week Eight Lecture",
+    "text": "Week Eight Lecture\nDownload or view: Week Eight."
+  },
+  {
+    "objectID": "sta2243/index.html#week-nine-lecture",
+    "href": "sta2243/index.html#week-nine-lecture",
+    "title": "Course Description",
+    "section": "Week Nine Lecture",
+    "text": "Week Nine Lecture\nDownload or view: Week Nine."
+  },
+  {
+    "objectID": "sta2243/index.html#week-ten",
+    "href": "sta2243/index.html#week-ten",
+    "title": "Course Description",
+    "section": "Week Ten",
+    "text": "Week Ten\nDownload or view: Week Ten."
+  },
+  {
+    "objectID": "sta2243/index.html#week-eleven",
+    "href": "sta2243/index.html#week-eleven",
+    "title": "Course Description",
+    "section": "Week Eleven",
+    "text": "Week Eleven\nCAT 2"
+  },
+  {
+    "objectID": "sta2243/index.html#week-twelve",
+    "href": "sta2243/index.html#week-twelve",
+    "title": "Course Description",
+    "section": "Week Twelve",
+    "text": "Week Twelve\nGroup Project Presentations"
+  },
+  {
+    "objectID": "sta2243/index.html#week-13-and-14",
+    "href": "sta2243/index.html#week-13-and-14",
+    "title": "Course Description",
+    "section": "Week 13 and 14",
+    "text": "Week 13 and 14\nRevision for Examinations"
+  },
+  {
+    "objectID": "sta2270/index.html#week-eleven-lecture",
+    "href": "sta2270/index.html#week-eleven-lecture",
+    "title": "Course Content",
+    "section": "Week Eleven Lecture",
+    "text": "Week Eleven Lecture\nDownload or view: Week Eleven."
+  },
+  {
+    "objectID": "sta2270/index.html#week-twelve",
+    "href": "sta2270/index.html#week-twelve",
+    "title": "Course Content",
+    "section": "Week Twelve",
+    "text": "Week Twelve\nGroup Project Presentations"
+  },
+  {
+    "objectID": "sta2454/index.html",
+    "href": "sta2454/index.html",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Important\n\n\n\nBe visiting the webpage every week for lecture notes.\nThey will uploaded here each week or earlier as it may be necessary.\n\n\n\n\nDownload or view: Week One.\n\n\n\nDownload or view: Week Two.\n\n\n\nDownload or view: Week Three.\n\n\n\nDownload or view: Week Four.\n\n\n\nCAT 1 as per the University Plan\n\n\n\nDownload or view: Week Six.\n\n\n\nDownload or view: Week Seven.\n\n\n\nDownload or view: Week Eight.\n\n\n\nCAT 2 Revision\n\n\n\nCAT 2 as per University Plan\n\n\n\nGroup Project Preparations\n\n\n\nGroup Project Presentations\n\n\n\nRevision for Examinations"
+  },
+  {
+    "objectID": "sta2454/index.html#week-one-lecture",
+    "href": "sta2454/index.html#week-one-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week One."
+  },
+  {
+    "objectID": "sta2454/index.html#week-two-lecture",
+    "href": "sta2454/index.html#week-two-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Two."
+  },
+  {
+    "objectID": "sta2454/index.html#week-three-lecture",
+    "href": "sta2454/index.html#week-three-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Three."
+  },
+  {
+    "objectID": "sta2454/index.html#week-four-lecture",
+    "href": "sta2454/index.html#week-four-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Four."
+  },
+  {
+    "objectID": "sta2454/index.html#week-five-lecture",
+    "href": "sta2454/index.html#week-five-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "CAT 1 as per the University Plan"
+  },
+  {
+    "objectID": "sta2454/index.html#week-six-lecture",
+    "href": "sta2454/index.html#week-six-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Six."
+  },
+  {
+    "objectID": "sta2454/index.html#week-seven-lecture",
+    "href": "sta2454/index.html#week-seven-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Seven."
+  },
+  {
+    "objectID": "sta2454/index.html#week-eight-lecture",
+    "href": "sta2454/index.html#week-eight-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Download or view: Week Eight."
+  },
+  {
+    "objectID": "sta2454/index.html#week-nine-lecture",
+    "href": "sta2454/index.html#week-nine-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "CAT 2 Revision"
+  },
+  {
+    "objectID": "sta2454/index.html#week-ten",
+    "href": "sta2454/index.html#week-ten",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "CAT 2 as per University Plan"
+  },
+  {
+    "objectID": "sta2454/index.html#week-eleven-lecture",
+    "href": "sta2454/index.html#week-eleven-lecture",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Group Project Preparations"
+  },
+  {
+    "objectID": "sta2454/index.html#week-twelve",
+    "href": "sta2454/index.html#week-twelve",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Group Project Presentations"
+  },
+  {
+    "objectID": "sta2454/index.html#week-13-and-14",
+    "href": "sta2454/index.html#week-13-and-14",
+    "title": "Lecture Notes Per Week",
+    "section": "",
+    "text": "Revision for Examinations"
+  },
+  {
+    "objectID": "hes2308/index.html",
+    "href": "hes2308/index.html",
+    "title": "Lecture Notes",
+    "section": "",
+    "text": "Lecture Notes\n\n\n\n\n\n\nImportant\n\n\n\nBe visiting the webpage every week for lecture notes.\nThey will uploaded here each week or earlier as it may be necessary.\n\n\nThe notes are HES 2308 Lecture Notes"
+  },
+  {
+    "objectID": "sta2444/sta2444.html",
+    "href": "sta2444/sta2444.html",
+    "title": "Course Description",
+    "section": "",
+    "text": "The course content to be covered is displayed here. Make sure to follow through."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-one-lecture",
+    "href": "sta2444/sta2444.html#week-one-lecture",
+    "title": "Course Description",
+    "section": "Week One Lecture",
+    "text": "Week One Lecture\nDownload or view: Week One."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-two-lecture",
+    "href": "sta2444/sta2444.html#week-two-lecture",
+    "title": "Course Description",
+    "section": "Week Two Lecture",
+    "text": "Week Two Lecture\nDownload or view: Week Two."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-three-lecture",
+    "href": "sta2444/sta2444.html#week-three-lecture",
+    "title": "Course Description",
+    "section": "Week Three Lecture",
+    "text": "Week Three Lecture\nDownload or view: Week Three."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-four-lecture",
+    "href": "sta2444/sta2444.html#week-four-lecture",
+    "title": "Course Description",
+    "section": "Week Four Lecture",
+    "text": "Week Four Lecture\nDownload or view: Week Four."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-five-lecture",
+    "href": "sta2444/sta2444.html#week-five-lecture",
+    "title": "Course Description",
+    "section": "Week Five Lecture",
+    "text": "Week Five Lecture\nCAT 1 as per the University Plan"
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-six-lecture",
+    "href": "sta2444/sta2444.html#week-six-lecture",
+    "title": "Course Description",
+    "section": "Week Six Lecture",
+    "text": "Week Six Lecture\nDownload or view: Week Six."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-seven-lecture",
+    "href": "sta2444/sta2444.html#week-seven-lecture",
+    "title": "Course Description",
+    "section": "Week Seven Lecture",
+    "text": "Week Seven Lecture\nDownload or view: Week Seven."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-eight-lecture",
+    "href": "sta2444/sta2444.html#week-eight-lecture",
+    "title": "Course Description",
+    "section": "Week Eight Lecture",
+    "text": "Week Eight Lecture\nDownload or view: Week Eight."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-nine-lecture",
+    "href": "sta2444/sta2444.html#week-nine-lecture",
+    "title": "Course Description",
+    "section": "Week Nine Lecture",
+    "text": "Week Nine Lecture\nDownload or view: Week Nine."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-ten",
+    "href": "sta2444/sta2444.html#week-ten",
+    "title": "Course Description",
+    "section": "Week Ten",
+    "text": "Week Ten\nDownload or view: Week Ten."
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-eleven",
+    "href": "sta2444/sta2444.html#week-eleven",
+    "title": "Course Description",
+    "section": "Week Eleven",
+    "text": "Week Eleven\nCAT 2"
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-twelve",
+    "href": "sta2444/sta2444.html#week-twelve",
+    "title": "Course Description",
+    "section": "Week Twelve",
+    "text": "Week Twelve\nGroup Project Presentations"
+  },
+  {
+    "objectID": "sta2444/sta2444.html#week-13-and-14",
+    "href": "sta2444/sta2444.html#week-13-and-14",
+    "title": "Course Description",
+    "section": "Week 13 and 14",
+    "text": "Week 13 and 14\nRevision for Examinations"
+  }
+]

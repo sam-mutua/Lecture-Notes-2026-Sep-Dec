@@ -1,0 +1,81 @@
+---
+title: "Course Description"
+---
+
+The course content to be covered is displayed here. Make sure to follow through. 
+
+::: {.callout-important}
+### For You
+Ensure if you have a PC you have carried it to class fully installed with R and RStudio. 
+
+The class will be virtual as per the guidelines given. 
+
+Kindly corporate.
+
+Basic knowledge basic statistics is vital. 
+
+:::
+
+# Course Purpose
+
+This course is to equip researchers in fashion design with advanced statistical, data management, and visualization skills necessary for conducting empirical research, analyzing trends, and presenting findings effectively.
+
+
+# Expected Learning Outcomes
+
+By the end of the course, students should be able to:
+
+i.	Use descriptive and inferential statistical methods to analyze fashion-related data.
+
+ii.	Collect, clean, and structure data efficiently using software like SPSS, R, Python, and SQL.
+
+iii.	Apply statistical and analytical techniques to optimize garment production, quality, and fashion marketing strategies.
+
+iv.	Assess the validity and reliability of quantitative research methods in fashion studies.
+
+v.	Compare qualitative and quantitative approaches to data analysis in fashion studies.
+
+
+# Course Content
+
+Role of data in fashion research and design decision-making. Tools for data management: SQL, Excel, Google Sheets, and database systems. Research Ethics in Fashion Data Management; Inferential statistics (t-tests, chi-square, ANOVA, correlation, regression); hypothesis testing, correlation, and regression analysis. Factor analysis, principal component analysis (PCA), and cluster analysis. Software Tools for Data Visualization: Tableau, Power BI, and Python libraries (Matplotlib, Seaborn). Qualitative data analysis; Understanding market trends using statistical modeling. Psychometric Analysis in Fashion Research.
+
+
+# Lecture Notes Per Week
+
+:::{.callout-important}
+Be visiting the webpage every week for lecture notes.
+
+They will uploaded here each week or earlier as it may be necessary.
+:::
+
+
+## Week One Lecture
+
+Download or view:  [Introduction Lecture](/fdtt704/Week_One_Lecture.pdf).
+
+
+## Week Two Lecture
+
+Download or view:  [Introduction To R](/fdtt704/Week_Two_Lecture.pdf).
+
+
+## Week Three Lecture
+
+Download or view:  [Hypothesis Test](/fdtt704/Week_Three_Lecture.pdf).
+
+
+## Week Four Lecture
+
+Download or view:  [Correlation and Regression](/fdtt704/Week_Four_Lecture.pdf).
+
+
+## Week Five Lecture
+
+Download or view:  [Principal Component Analysis](/fdtt704/Week_Five_Lecture.pdf).
+
+## Week Six Lecture
+
+Download or view:  [Clustering](/fdtt704/Week_Six_Lecture.pdf).
+
+
